@@ -1,4 +1,4 @@
-<img width="448" height="667" alt="Screenshot 2025-08-14 at 2 14 46 AM" src="https://github.com/user-attachments/assets/83c8d78b-bb18-433c-81da-d3a629e35de6" />Tableau Dashboard based on Airbnb data includes:
+>Tableau Dashboard based on Airbnb data includes:
 
   -Country map by zipcode
   
